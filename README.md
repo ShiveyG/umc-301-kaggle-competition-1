@@ -1,7 +1,7 @@
 # umc-301-kaggle-competition-1
 Code for Kaggle Competition 1 for UMC 301 
 
-**final-submission** contains code for the highest scoring submissions.\
+**final-submission** contains code for the highest scoring submissions.
 
 Scores for the best submission:\
 Private Score: 0.58731\

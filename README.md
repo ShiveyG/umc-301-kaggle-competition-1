@@ -3,8 +3,8 @@ Code for Kaggle Competition 1 for UMC 301
 
 **final-submission** contains code for the highest scoring submissions.\
 
-Scores for the best submission:
-Private Score: 0.58731
+Scores for the best submission:\
+Private Score: 0.58731\
 Public Score: 0.57235
 
 -Simple Imputation is performed for missing values.\

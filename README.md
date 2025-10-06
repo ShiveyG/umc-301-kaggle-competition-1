@@ -20,3 +20,5 @@ Public Score: 0.57235
 - Imbalance handling
 - Light GBM
 - Ensembles of catboost and lightgbm
+
+  In earlier attempts, binary predictions were used instead of probabilities. 
